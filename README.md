@@ -1,5 +1,5 @@
 # Polished-Potatoes-Website-Project
-A website about potatoes designed by me to test my HTML, CSS and JavaScript knowledge. It contains general information about potato morphology and trivial potato facts as well as a short summary of potato in human civilization. 
+A website about potatoes designed by me to test my HTML, CSS and JavaScript knowledge. It contains general information about potato morphology and trivial potato facts as well as a short summary of potato in human civilization.
 Link to my website: https://thirsty-mahavira-c95cf1.netlify.app/
 Screenshots:
 ![ssWebsite](https://user-images.githubusercontent.com/74245258/115919951-319cde80-a482-11eb-9ec2-b32d2c47a906.png)
